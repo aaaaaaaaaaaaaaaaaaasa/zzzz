@@ -101,4 +101,36 @@ a{
     height: 200px;
     width: 200px;
 }
-  
+ 
+#contenido{
+    justify-content: space-between;
+    display: flex;
+    background-color: #b9e6ff;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+}
+#contenido > p {
+    color: #b9e6ff;
+}
+#contenido > h5{
+    color: #b9e6ff;
+}
+
+
+#contenido2{
+    justify-content: space-between;
+    display: flex;
+    background-color: #b9e6ff;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+    border-radius: 25px;
+}
+#contenido2 > p {
+    color: #b9e6ff;
+}
+#contenido2 > h5{
+    color: #b9e6ff;
+}
